@@ -1,0 +1,15 @@
+{
+    "title": "Jun Test",
+    "baseURL": "https:\/\/www.deployingfailwhy.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1759035",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "deployingfailwhy.com"
+    }
+}
