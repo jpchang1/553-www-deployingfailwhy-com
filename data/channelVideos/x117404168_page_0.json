@@ -2,50 +2,6 @@
     "pageNumber": 0,
     "data": [
         {
-            "id": "117404143",
-            "title": "California Cycleworks. A TVPage Case Study.",
-            "date_created": "1402219451",
-            "loginId": "1758991",
-            "tags": "",
-            "description": "California Cycleworks specializes in the manufacture, distribution and retail of high quality aftermarket parts for Ducati motorcycles. Cycleworks markets and sells its products to both consumers and distributors, globally. In fact, some of the most active regions include Australia, Canada and of course, Italy -- the home of Ducati SpA.",
-            "asset": {
-                "type": "youtube",
-                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/UPw5oBSQR10\/maxresdefault.jpg",
-                "uploadDate": 1402219451,
-                "videoId": "UPw5oBSQR10",
-                "title": "California Cycleworks. A TVPage Case Study.",
-                "description": "California Cycleworks specializes in the manufacture, distribution and retail of high quality aftermarket parts for Ducati motorcycles. Cycleworks markets and sells its products to both consumers and distributors, globally. In fact, some of the most active regions include Australia, Canada and of course, Italy -- the home of Ducati SpA.",
-                "author": "TVPage",
-                "mediaDuration": 192,
-                "prettyDuration": "00:03:12",
-                "views": "65"
-            },
-            "parentId": "117404168",
-            "url": "\/test-channel\/california-cycleworks-a-tvpage-case-study\/117404168-117404143"
-        },
-        {
-            "id": "117404141",
-            "title": "Char-Broil. A TVPage Case Study.",
-            "date_created": "1407804771",
-            "loginId": "1758991",
-            "tags": "",
-            "description": "Char-Broil TV is the home of all Char-Broil's video content. Visitors can browse, watch and get engaged with Char-Broil content, while they shop! This is an excellent example of how a company can create a video section on their website, and not send visitors to YouTube, where they can be lost. Would you send a customer out of your store?",
-            "asset": {
-                "type": "youtube",
-                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/leh4XLjMab4\/maxresdefault.jpg",
-                "uploadDate": 1407804771,
-                "videoId": "leh4XLjMab4",
-                "title": "Char-Broil. A TVPage Case Study.",
-                "description": "Char-Broil TV is the home of all Char-Broil's video content. Visitors can browse, watch and get engaged with Char-Broil content, while they shop! This is an excellent example of how a company can create a video section on their website, and not send visitors to YouTube, where they can be lost. Would you send a customer out of your store?",
-                "author": "TVPage",
-                "mediaDuration": 163,
-                "prettyDuration": "00:02:43",
-                "views": "93"
-            },
-            "parentId": "117404168",
-            "url": "\/test-channel\/char-broil-a-tvpage-case-study\/117404168-117404141"
-        },
-        {
             "id": "117404172",
             "title": "CNL 20 Graduation 2a",
             "date_created": "1434533736",
@@ -112,30 +68,6 @@
             },
             "parentId": "117404168",
             "url": "\/test-channel\/tvpage-shoppable-video-for-merchants\/117404168-117404140"
-        },
-        {
-            "id": "117404139",
-            "title": "Allon Caidar, CEO, TVPage - IBM Amplify 2017",
-            "date_created": "1496439981",
-            "loginId": "1758991",
-            "tags": "",
-            "description": "New Testing",
-            "asset": {
-                "type": "youtube",
-                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/pAShLCQDYkk\/maxresdefault.jpg",
-                "uploadDate": 1496439981,
-                "videoId": "pAShLCQDYkk",
-                "title": "Allon Caidar, CEO, TVPage - IBM Amplify 2017",
-                "description": "",
-                "author": "TVPage",
-                "mediaDuration": 971,
-                "prettyDuration": "00:16:11",
-                "views": "7",
-                "uploadAsset": false,
-                "quality": ""
-            },
-            "parentId": "117404168",
-            "url": "\/test-channel\/allon-caidar-ceo-tvpage-ibm-amplify-2017\/117404168-117404139"
         }
     ]
 }
