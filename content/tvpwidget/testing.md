@@ -10,7 +10,7 @@
     "type": "inline",
     "title": "Testing",
     "name": "testing",
-    "channelId": "117404171",
+    "channelId": "117407925",
     "layout": "bootstrap",
     "autoplay": true
 }
