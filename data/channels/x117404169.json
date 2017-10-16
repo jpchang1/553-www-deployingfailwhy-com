@@ -1,0 +1,24 @@
+{
+    "title": "New Channel 2",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1505526902",
+    "date_modified": "1506980924",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "117404169",
+    "loginId": "1758991",
+    "entityType": "3",
+    "titleTextEncoded": "New-Channel",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "enableSubscribers": true
+    },
+    "transcripts": null
+}
