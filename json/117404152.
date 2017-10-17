@@ -15,6 +15,8 @@
     "id",
     "loginId",
     "entityType",
+    "sortOrder",
+    "entityIdParent",
     "asset",
     "category",
     "duration",
