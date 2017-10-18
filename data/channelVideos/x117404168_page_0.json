@@ -1,25 +1,25 @@
 {
     "pageNumber": 0,
     "data": {
-        "id": "117404478",
-        "title": "\ud638\uc0b0\ub098 \uc131\uac00\ub300 - \uc8fc\uae30\ub3c4",
-        "date_created": "1445987501",
+        "id": "117404484",
+        "title": "\ud560\ub810\ub8e8\uc57c \uc131\uac00\ub300 - \uc77c\uc5b4\ub098 \ube5b\uc744 \ubc1c\ud558\ub77c",
+        "date_created": "1444852904",
         "loginId": "1758991",
         "tags": "",
-        "description": "\ud638\uc0b0\ub098 \uc131\uac00\ub300 - \uc8fc\uae30\ub3c4\n\n\uc0cc\ub514\uc5d0\uace0 \uac08\ubcf4\ub9ac \uad50\ud68c",
+        "description": "\uc0cc\ub514\uc5d0\uace0 \uac08\ubcf4\ub9ac \uad50\ud68c",
         "asset": {
             "type": "youtube",
-            "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/0wL6MjHP9MI\/maxresdefault.jpg",
-            "uploadDate": 1445987501,
-            "videoId": "0wL6MjHP9MI",
-            "title": "\ud638\uc0b0\ub098 \uc131\uac00\ub300 - \uc8fc\uae30\ub3c4",
-            "description": "\ud638\uc0b0\ub098 \uc131\uac00\ub300 - \uc8fc\uae30\ub3c4\n\n\uc0cc\ub514\uc5d0\uace0 \uac08\ubcf4\ub9ac \uad50\ud68c",
+            "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/e5-R1ve70A4\/maxresdefault.jpg",
+            "uploadDate": 1444852904,
+            "videoId": "e5-R1ve70A4",
+            "title": "\ud560\ub810\ub8e8\uc57c \uc131\uac00\ub300 - \uc77c\uc5b4\ub098 \ube5b\uc744 \ubc1c\ud558\ub77c",
+            "description": "\uc0cc\ub514\uc5d0\uace0 \uac08\ubcf4\ub9ac \uad50\ud68c",
             "author": "SDCKC",
-            "mediaDuration": 123,
-            "prettyDuration": "00:02:03",
-            "views": "133"
+            "mediaDuration": 157,
+            "prettyDuration": "00:02:37",
+            "views": "1187"
         },
         "parentId": "117404168",
-        "url": "\/test-channel\/\ud638\uc0b0\ub098-\uc131\uac00\ub300-\uc8fc\uae30\ub3c4\/117404168-117404478"
+        "url": "\/test-channel\/\ud560\ub810\ub8e8\uc57c-\uc131\uac00\ub300-\uc77c\uc5b4\ub098-\ube5b\uc744-\ubc1c\ud558\ub77c\/117404168-117404484"
     }
 }
