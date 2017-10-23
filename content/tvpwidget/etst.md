@@ -10,6 +10,6 @@
     "type": "carousel",
     "title": "etst",
     "name": "etst",
-    "channelId": "117404499",
+    "channelId": "117404500",
     "layout": "bootstrap"
 }
