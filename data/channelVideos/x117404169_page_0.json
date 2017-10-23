@@ -1,0 +1,73 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "117404142",
+            "title": "[1508371226] Jerome's Furniture. A TVPage Case Study",
+            "date_created": "1403104724",
+            "loginId": "1758991",
+            "tags": "",
+            "description": "Jerome's TVPage Video Shopping Experience is an important part in making the brand a media company as much as a furniture retailer, or, more precisely, intertwining the two. The website presents the retailer's commercials, properly organized, with which viewers can engage and convert to sales. Jerome's literally integrated shopping INTO the video experience, something they had never before thought possible, creating a revolutionary new avenue to sell their product.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ntMcDgNZoUI\/maxresdefault.jpg",
+                "uploadDate": 1403104724,
+                "videoId": "ntMcDgNZoUI",
+                "title": "Jerome's Furniture. A TVPage Case Study.",
+                "description": "Jerome's TVPage Video Shopping Experience is an important part in making the brand a media company as much as a furniture retailer, or, more precisely, intertwining the two. The website presents the retailer's commercials, properly organized, with which viewers can engage and convert to sales. Jerome's literally integrated shopping INTO the video experience, something they had never before thought possible, creating a revolutionary new avenue to sell their product.",
+                "author": "TVPage",
+                "mediaDuration": 197,
+                "prettyDuration": "00:03:17",
+                "views": "157",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "117404169",
+            "url": "\/new-channel-2\/jerome-s-furniture-a-tvpage-case-study\/117404169-117404142"
+        },
+        {
+            "id": "117404145",
+            "title": "[1508371226] TVPage - Smart Video Marketing Platform",
+            "date_created": "1402212715",
+            "loginId": "1758991",
+            "tags": "",
+            "description": "TVPage, the business-intelligent video marketing platform, enables merchants to convert video viewers into customers. Our platform empowers you to create and auto-optimize custom video experiences that increase conversion on your website and social media properties. Get insight into performance with custom analytics.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/6yTZSyhWSCo\/maxresdefault.jpg",
+                "uploadDate": 1402212715,
+                "videoId": "6yTZSyhWSCo",
+                "title": "TVPage - Smart Video Marketing Platform",
+                "description": "TVPage, the business-intelligent video marketing platform, enables merchants to convert video viewers into customers. Our platform empowers you to create and auto-optimize custom video experiences that increase conversion on your website and social media properties. Get insight into performance with custom analytics.",
+                "author": "TVPage",
+                "mediaDuration": 139,
+                "prettyDuration": "00:02:19",
+                "views": "122"
+            },
+            "parentId": "117404169",
+            "url": "\/new-channel-2\/tvpage-smart-video-marketing-platform\/117404169-117404145"
+        },
+        {
+            "id": "117404146",
+            "title": "[1508371226] TVPage - Smart Video Marketing",
+            "date_created": "1399494288",
+            "loginId": "1758991",
+            "tags": "",
+            "description": "TVPage, the business-intelligent video marketing platform, enables merchants to convert video viewers into customers. Our platform empowers you to create and auto-optimize custom video experiences that increase conversion on your website and social media properties. Get insight into performance with custom analytics.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/gPD3oU0X39U\/maxresdefault.jpg",
+                "uploadDate": 1399494288,
+                "videoId": "gPD3oU0X39U",
+                "title": "TVPage - Smart Video Marketing",
+                "description": "TVPage, the business-intelligent video marketing platform, enables merchants to convert video viewers into customers. Our platform empowers you to create and auto-optimize custom video experiences that increase conversion on your website and social media properties. Get insight into performance with custom analytics.",
+                "author": "TVPage",
+                "mediaDuration": 139,
+                "prettyDuration": "00:02:19",
+                "views": "34852"
+            },
+            "parentId": "117404169",
+            "url": "\/new-channel-2\/tvpage-smart-video-marketing\/117404169-117404146"
+        }
+    ]
+}
