@@ -14,6 +14,8 @@
     "titleTextEncoded": "Test-Channel",
     "category": null,
     "duration": null,
-    "settings": "{\"canvasImage\":\"default_canvas3.jpg\",\"colorClass\":\"light\",\"canvasType\":\"gallery\"}",
+    "settings": [
+        "{\"canvasImage\":\"default_canvas3.jpg\",\"colorClass\":\"light\",\"canvasType\":\"gallery\"}"
+    ],
     "transcripts": null
 }

@@ -1,0 +1,21 @@
+{
+    "title": "new widget channel",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1507070936",
+    "date_modified": "1507070950",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "117404499",
+    "loginId": "1758991",
+    "entityType": "3",
+    "titleTextEncoded": "new-widget-channel",
+    "category": null,
+    "duration": null,
+    "settings": [
+        "{\"canvasImage\":\"default_canvas3.jpg\",\"colorClass\":\"light\",\"canvasType\":\"gallery\"}"
+    ],
+    "transcripts": null
+}
